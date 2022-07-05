@@ -19,4 +19,4 @@ Cách sử dụng
 - Hàm updateScroolView của SetupView cho vào checkInput của Main cho vào sau GameMidlet.gameCanvas.scrollMouse((int)(Input.GetAxis("Mouse ScrollWheel") * 10f));
   * sẽ có dạng như sau: UglyBoy.Canvas.SetupView.gI().updateScroolView((int)(Input.GetAxis("Mouse ScrollWheel") * 10f));
 - Hàm addItem trong myCanvas là hàm chúng ta sẽ thêm các item của menu vào thì mới xuất hiện khi chúng ta mở menu lên nhé
--Trong file setup view vẫn có các tag hướng dẫn nhé.
+- Trong file setup view vẫn có các tag hướng dẫn nhé.
