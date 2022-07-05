@@ -1,4 +1,4 @@
-# UglyBoy
+# UglyBoy: web của tôi https://www.manhhdc.online/ vẫn nhận tiền donate nhé :))
 Thông tin
 - SetupView.cs là view chính chứa các view nhỏ hơn.
 - myCanvas.cs là nơi xử lý các item menu
